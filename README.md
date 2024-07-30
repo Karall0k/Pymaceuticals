@@ -6,5 +6,5 @@ In this analysis, anti-cancer medication animal study data was evaluated to comp
 
 
 Sources: The code used to create this analysis was inspired by the concepts learned in the RU Datascience bootcamp curriculium.
-Source code for the summary statistics was taken from https://github.com/hanydief/Pymaceuticals-NumPy_Matplotlib_Challenge.git.
+Source code for the summary statistics was inspired by https://github.com/hanydief/Pymaceuticals-NumPy_Matplotlib_Challenge.git.
 Source code for some of the charts was inspired by https://github.com/amatutuwaa/Pymaceuticals.git.
